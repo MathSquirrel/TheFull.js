@@ -1,2 +1,3 @@
-# thereadyjs
-ES6 and polyfills in ES5
+# TheReady.js
+###### ES6 and polyfills in ES5
+
